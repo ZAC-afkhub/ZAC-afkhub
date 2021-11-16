@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌎 Brazil
 - 🔤 Pronouns: ...ele/dele
 -->
-  <div align='center'><img align="center" alt="ZACafk-Python" height="300" width="400" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></div>
+  <div align='center'><img src='https://github.githubassets.com/images/mona-loading-dark.gif'/></div>
  </head>
  <div>
   <a href="https://github.com/ZAC-afkhub">
