@@ -20,7 +20,6 @@
                </strong>
       </p>
       <br>
-      ![CodingZac's Stats](https://github-readme-stats.vercel.app/api?username=CodingZac&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
    <div align='right'>
         <img src='https://i.ibb.co/GHX9HMD/kindpng-6944052-removebg.png' height='200px'/>
    </div>
