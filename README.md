@@ -2,7 +2,7 @@
 <br>
 ***🧠  I'm learning .NET, C#***
 
-<img src='https://avatars.githubusercontent.com/u/9011267?v=4'/>
+<img src='https://go.dev/images/gophers/ladder.svg' align='center'/>
 
 <div align='center'>
 
