@@ -2,7 +2,7 @@
 <br>
 ***🧠  I'm learning .NET, C#***
 
-<img src='https://avatars.githubusercontent.com/u/9011267?v=4' align='left'/>
+<img src='https://avatars.githubusercontent.com/u/9011267?v=4'/>
 
 <div align='right'>
      ### Skills
