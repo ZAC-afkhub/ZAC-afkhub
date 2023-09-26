@@ -4,7 +4,7 @@
 
 <img src='https://avatars.githubusercontent.com/u/9011267?v=4' align='left'/>
 
-<div align='center'>
+<div align='right'>
      <b>My Stats</b>
 <br>
 <a href="http://www.github.com/ZAC-afkhub"><img src="https://github-readme-stats.vercel.app/api?username=ZAC-afkhub&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZAC-afkhub's GitHub stats" /></a>
