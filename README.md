@@ -1,7 +1,7 @@
 **👋 | Welcome**
         ~
 
-***🌍  Brazil, Salvador Bahia***
+***🌍  Brazil***
 <br>
 ***🧠  learning .NET, C#***
 
