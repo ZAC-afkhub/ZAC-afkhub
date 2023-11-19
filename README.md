@@ -3,7 +3,7 @@
 
 ***🌍  Brazil***
 <br>
-***🧠  learning .NET, C# and Python***
+***🧠  learning .NET, C#, Python and Elixir***
 
 
 <div align='center'>
@@ -14,6 +14,7 @@
 width="36" height="36" />
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elixir_lang_logo_icon_169207.png" width="36" height="36" /></a> 
 
 ### Socials
 
