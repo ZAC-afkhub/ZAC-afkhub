@@ -22,5 +22,4 @@ width="36" height="36" />
 <br>
 <a href="http://www.github.com/ZAC-afkhub"><img src="https://github-readme-stats.vercel.app/api?username=ZAC-afkhub&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ZAC-afkhub's GitHub stats" /></a>
 <br>
-<a href="https://github.com/ZAC-afkhub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZAC-afkhub&langs_count=10&title_color=000000&text_color=000000&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <img src='https://i.ibb.co/HBcHt2Z/image-removebg-preview.png' align='right' height='190px'/>
