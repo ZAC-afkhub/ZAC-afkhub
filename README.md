@@ -3,7 +3,7 @@
 
 ***🌍  Brazil***
 <br>
-***🧠  learning .NET, C# and Python***
+***🧠  learning .NET, C#, Python and Angular***
 
 
 <div align='center'>
@@ -14,6 +14,7 @@
 width="36" height="36" />
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/R.09af26effa4f2999663f96e00bb51f0a?rik=rlTKWrK8D1DPpg&pid=ImgRaw&r=0" width="36" height="36" alt="Angular" /></a>
 
 ### Socials
 
