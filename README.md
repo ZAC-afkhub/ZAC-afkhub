@@ -3,7 +3,7 @@
 
 ***🌍  Brazil***
 <br>
-***🧠  learning .NET, C#, Python and Angular***
+***🧠  learning .NET, C#, and Angular***
 
 
 <div align='center'>
