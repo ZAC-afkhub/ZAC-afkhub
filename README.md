@@ -3,8 +3,6 @@
 
 ***🌍  Brazil***
 <br>
-***🧠  learning .NET, C#, and Angular***
-
 
 <div align='center'>
 
@@ -12,8 +10,8 @@
 
 
 <a href="https://typescriptlang.org" target="_blank"><img src="https://static-production.npmjs.com/255a118f56f5346b97e56325a1217a16.svg" width="36" height="40" alt="TypeScript"></a>
+<a href="https://typescriptlang.org" target="_blank"><img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" width="36" height="38" alt="Javascript"></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
 
 ### Socials
 
